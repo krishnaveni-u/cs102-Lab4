@@ -5,7 +5,7 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
-    background-image: url("/Users/rahulpalivela/Downloads/Movie_html_Project/images/background.jpg");
+    background-image: url("images/background.jpg");
 }
 
 /* Header/Blog Title */
@@ -13,7 +13,7 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:black;
     padding: 30px;
-    background-image: url("/Users/rahulpalivela/Downloads/Movie_html_Project/images/header.jpg");
+    background-image: url("images/header.jpg");
     text-align: center;
     /* background: white;*/
 }
@@ -73,6 +73,10 @@ body {
     color: white;
     padding: 20px;
     margin-top: 20px;
+}
+
+h2{
+    color:#ce64bc
 }
 
 /* Add a card effect for articles */
